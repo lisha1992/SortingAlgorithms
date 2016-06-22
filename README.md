@@ -1,4 +1,4 @@
-# SearchingAlgorithms
+# Searching Algorithms
 
 1. Sequential Search </br>
 从数据结构线形表的一端开始，顺序扫描，依次将扫描到的结点关键字与给定值k相比较，若相等则表示查找成功；若扫描结束仍没有找到关键字等于k的结点，表示查找失败。</br>
